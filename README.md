@@ -96,6 +96,7 @@ Skills Demonstrated for this project: Software Testing Life Cycle (STLC), Test C
 ## 👥 Credits
 👥 Credits
 Group Projects - Team: Masixole Thebe (Group Leader), Tshepo Tsotetsi, Ayanda Mokoele, Luyanda Magagula, Onalenna Kgosi
+
 My Roles: Section 5 and 6 - Database Implementation and All SQL Queries (EWC Project) | Bug Tracker & Retester - Defect Documentation & Retesting (IWS BizConnect Project)
 ## 👤 Author
 Onalenna Honest Kgosi | Diploma in ICT in Business Analysis - Walter Sisulu University
